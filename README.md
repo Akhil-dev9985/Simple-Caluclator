@@ -16,6 +16,10 @@ Welcome to the **Simple Calculator Website** – a minimalist, easy-to-use web-b
 - **CSS**: Adds styling, ensuring a clean and responsive design.
 - **JavaScript**: Implements the calculator's functionality and handles user input/output.
 
+- ## 🎉 Live Demo
+
+Check out the live version of the app [here](https://akhilssimplecaluclator.netlify.app/)
+
 ## 🔧 Installation
 
 To get started with this project locally:
